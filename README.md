@@ -16,7 +16,10 @@ Classification results with test data
     accuracy                           0.98       465
    macro avg       0.98      0.98      0.98       465
 weighted avg       0.98      0.98      0.98       465
+
 Confusion matrix
+
 ![Screenshot 2023-12-21 234832](https://github.com/FPT-ThaiTuan/Detect-Yoga-Poses-And-Correction-In-Real-Time-Using-Machine-Learning-Algorithms/assets/105273233/46ab847e-9868-41b4-b488-d3ec31f51373)
+
 Results of yoga posture correction method
 ![Screenshot 2023-12-21 234941](https://github.com/FPT-ThaiTuan/Detect-Yoga-Poses-And-Correction-In-Real-Time-Using-Machine-Learning-Algorithms/assets/105273233/56ed37d9-3ff6-4c18-b63b-f58f648b6fbf)
