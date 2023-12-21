@@ -1,4 +1,4 @@
-##**1. The problem consists of two main parts**
+## **1. The problem consists of two main parts**
 ###Part 1: Classifying movements based on SVM (Support vector machines)
 ###Part 2: Posture assessment gives real-time feedback
 ##**2. Collect data**
