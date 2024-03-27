@@ -2,8 +2,7 @@
 ### Part 1: Classifying movements based on SVM (Support vector machines)
 ### Part 2: Posture assessment gives real-time feedback
 ## **2. Collect data**
-### Collected from kaggle :
-[YOGAPOSEDATASET](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset)
+### Collected from kaggle : [YOGA_POSE_DATASET](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset)
 
 ## **3. Result**
 ### Classification results with test data
